@@ -4,13 +4,13 @@ const nextConfig = {
   async redirects() {
     return [
       {
-        source: "/donate",
-        destination: "https://donate.stripe.com/7sI14a13paAb7TO9AA",
+        source: "/discord",
+        destination: "https://discord.gg/EfRmVEHh2G",
         permanent: true,
       },
       {
         source: "/store",
-        destination: "https://store.bridgesplash.net",
+        destination: "coming",
         permanent: true,
       }
     ];
