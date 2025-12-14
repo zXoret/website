@@ -5,8 +5,8 @@ import ComingSoon from './ComingSoon'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
-  title: 'BridgeSplash - Minecraft Network',
-  description: 'Minecraft server for the Bridge community',
+  title: 'FlarixMC- Minecraft Network',
+  description: 'Minecraft server for the minigame community',
 }
 
 export default function RootLayout({
